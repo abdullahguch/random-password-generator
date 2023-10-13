@@ -1,4 +1,4 @@
-# Secure Password Generator
+# Random Password Generator
 
 This Python script generates secure random passwords that adhere to modern security rules. The generated passwords include a mix of uppercase and lowercase letters, numbers, and special characters.
 
